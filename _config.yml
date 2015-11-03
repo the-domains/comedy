@@ -1,0 +1,23 @@
+name: comedy
+favicon: null
+layout_spectrum: 0.035120551474392414
+typography_spectrum: 0.7976807372178882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.055504813557490706
+  lightness: 0.02595603815279901
+  saturation: 0.946329690515995
+  rhythmicContrast: 0.28524009324610233
+purpose: []
