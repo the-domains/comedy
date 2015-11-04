@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Comedy Comedy Comedy]]></title>
         <description><![CDATA[Comedy Comedy Comedy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/comedy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 17:53:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 Nov 2015 18:02:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/comedy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jim Jefferies Tour 2016]]></title>
+            <description><![CDATA[<article><h1>Jim Jefferies Tour 2016</h1><p>MOST SHOWS NEARLY SOLD OUT!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20df1b92-e025-4a0f-a55d-225bdc4b1918.jpg"></article>]]></description>
+            <link>https://thegrid.ai/comedy/3dbc1e6c-b986-48b6-8a19-a4bb3da4be92/index.html</link>
+            <guid isPermaLink="false">3dbc1e6c-b986-48b6-8a19-a4bb3da4be92</guid>
+            <pubDate>Wed, 04 Nov 2015 18:02:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get Comedy at Festivals]]></title>
             <description><![CDATA[<article><h1>Get Comedy at Festivals</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29ba8ebf-e641-4f94-95ce-3926bd309f89.jpg"></article>]]></description>
-            <link>undefined52be6459-a746-41e4-a80b-cf4b0a1dcc57/index.html</link>
+            <link>https://thegrid.ai/comedy/52be6459-a746-41e4-a80b-cf4b0a1dcc57/index.html</link>
             <guid isPermaLink="false">52be6459-a746-41e4-a80b-cf4b0a1dcc57</guid>
             <pubDate>Wed, 04 Nov 2015 17:52:59 GMT</pubDate>
         </item>
