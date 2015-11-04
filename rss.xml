@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Comedy Comedy Comedy]]></title>
+        <description><![CDATA[Comedy Comedy Comedy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 Nov 2015 17:53:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get Comedy at Festivals]]></title>
+            <description><![CDATA[<article><h1>Get Comedy at Festivals</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29ba8ebf-e641-4f94-95ce-3926bd309f89.jpg"></article>]]></description>
+            <link>undefined52be6459-a746-41e4-a80b-cf4b0a1dcc57/index.html</link>
+            <guid isPermaLink="false">52be6459-a746-41e4-a80b-cf4b0a1dcc57</guid>
+            <pubDate>Wed, 04 Nov 2015 17:52:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
